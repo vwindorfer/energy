@@ -8,8 +8,8 @@ results = st.container()
 inclusive = st.container()
 
 with header:
-    st.title("Arthur's lab Energy Cost Calculator")
-    st.text("Welcome to the Energy Cost Calculator. Here you can automatically calculate you current enegry costs on a specific period of time.")
+    st.title("brandmill's Energy Cost Calculator")
+    st.text("All rights belong to the owner and creator of the application. VW")
 
 with calculator:
     st.subheader("Here is the awesome calculator")
